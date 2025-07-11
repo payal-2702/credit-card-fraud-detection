@@ -4,7 +4,6 @@ import time
 import plotly.express as px
 
 
-
 st.title ("Credit card fraud detection")
 st.write ("Enter following details")
 amount=st.number_input("Transaction Amount")
